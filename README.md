@@ -12,6 +12,7 @@ To gain hands-on experience in using Splunk for real-time security monitoring, t
 - Understanding Splunk components (Indexer, Search Head, Forwarder) and how they interact in a security monitoring environment.
 - Ingesting logs from multiple sources including Windows, Linux etc. 
 - Designing interactive dashboards and setting up real-time alerts for security events.
+- Analysing network logs such as DNS, SSH, HTTP and Zeek connection logs.
 
 ## Conclusion
 
@@ -24,6 +25,18 @@ Working with Splunk provided a solid foundation in security monitoring and SIEM 
 --------------------------------------------------------------------------------------------------------------------------------
 
 ### Analysing HTTP malicious user agent
-![Screenshot from 2025-05-15 17-11-53](https://github.com/user-attachments/assets/5e56d98d-4555-4fcb-8f89-5483672bcdd2)
+![Screenshot from 2025-05-15 17-11-53](https://github.com/user-attachments/assets/6a8f0980-0f40-4626-854d-b0226d8b61c3)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+### Analysing Zeek connection logs
+- Identifying top 10 Client IPs (id.orig_h)
+  ![Screenshot 2025-05-17 161741](https://github.com/user-attachments/assets/5ac1893a-51b6-4f4a-aede-82b9250172c5)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+### Analysing DNS logs
+- Breakdown of DNS query types (A, AAAA, CNAME, PTR)
+  ![Screenshot from 2025-05-15 16-37-19](https://github.com/user-attachments/assets/3bfb2f33-7dae-41a6-a1d5-a2026a1c31f8)
 
 

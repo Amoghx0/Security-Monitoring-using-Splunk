@@ -19,7 +19,7 @@ To gain hands-on experience in using Splunk for real-time security monitoring, t
 Working with Splunk provided a solid foundation in security monitoring and SIEM operations. I gained practical experience in detecting and responding to potential security incidents, building use cases, and creating actionable dashboards and alerts. This experience enhanced my understanding of how organizations use data-driven approaches to protect their environments and respond to threats in real-time.
 
 
-### Analysing SSH logs by originator host
+### Analysing top 10 endpoints with failed SSH login attempts
 ![Screenshot from 2025-05-15 16-51-20](https://github.com/user-attachments/assets/2c0d67c2-72fc-4816-9f7a-9c3d3cb6b321)
 
 --------------------------------------------------------------------------------------------------------------------------------

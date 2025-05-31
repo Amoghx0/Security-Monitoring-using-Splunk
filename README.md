@@ -39,7 +39,7 @@ Working with Splunk provided a solid foundation in security monitoring and SIEM 
 - Breakdown of DNS query types (A, AAAA, CNAME, PTR)
   ![Screenshot from 2025-05-15 16-37-19](https://github.com/user-attachments/assets/3bfb2f33-7dae-41a6-a1d5-a2026a1c31f8)
 
-............................................................................................................................................................................
+--------------------------------------------------------------------------------------------------------------------------------
 
 
    ## Collected and analyzed system logs from both Windows and Linux machines using Splunk Universal Forwarder to monitor and investigate security events and system anomalies.
